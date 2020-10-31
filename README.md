@@ -1,4 +1,12 @@
-# Image Search with Unsplash API - Tony Keiser 📚️
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/keisto/React-Pics/production/public/screenshot.png" alt="App Screenshot">
+</p>
+
+# Image Search with Unsplash API
+
+> Tony Keiser - 📚️ "This is the way"
+
+---
 
 # Getting Started with Create React App
 
